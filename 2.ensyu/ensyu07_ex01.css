@@ -1,0 +1,18 @@
+p {
+    text-align: center;
+}
+table {
+    font-size: 1.2rem;
+    border: 1px solid #000000;
+    border-collapse: collapse;
+}
+th {
+    padding: 10px;
+    background-color: #f0f0f0;
+    border: 1px solid #000000;
+}
+td {
+    padding: 10px;
+    border: 1px solid #000000;
+    border-collapse: collapse;
+}
